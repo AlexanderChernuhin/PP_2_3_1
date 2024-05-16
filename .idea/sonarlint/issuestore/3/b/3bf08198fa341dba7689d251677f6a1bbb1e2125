@@ -1,0 +1,5 @@
+
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$f7ea04d2-f7f5-4e58-a30e-cddaf4d5b5a5
+‘
+java:S6809,"UCall transactional methods via an injected dependency instead of directly via 'this'.(¨®ÇØJ$31263d09-e9af-4bd7-b0d7-39d48a8fa3df
